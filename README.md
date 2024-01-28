@@ -14,7 +14,7 @@ Ventura (13)
 - [x] Wifi
 - [x] Bluetooth
 - [x] Ports
-- [x] Audio
+- [x] Audio Realtek ALC256
 - [ ] Microphone
 - [x] accelerated graphics & iGPU
 - [ ] Camera
