@@ -10,3 +10,15 @@ Efi files for X512DA vivobook, hackintosh
 heres a guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
 # Tested on
 Ventura (13)
+# Things that work
+- [x] Wifi
+- [x] Bluetooth
+- [x] Ports
+- [x] Audio
+- [ ] Microphone
+- [x] accelerated graphics & iGPU
+- [ ] Camera
+- [x] Touchpad
+- [x] Keyboard
+- [x] Battery Status
+- [x] Cpu: Ryzen 3 3500U
