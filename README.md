@@ -11,8 +11,8 @@ heres a guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservi
 # Tested on
 Ventura (13)
 # Things that work
-- [x] Wifi
-- [x] Bluetooth
+- [x] Wifi Intel AC 7265
+- [x] Bluetooth Intel AC 7265
 - [x] Ports
 - [x] Audio Realtek ALC256
 - [ ] Microphone
