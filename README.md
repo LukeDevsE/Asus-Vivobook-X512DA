@@ -1,5 +1,5 @@
 # Asus-Vivobook-X512DA
-Efi files for X512DA vivoboook, hackintosh
+Efi files for X512DA vivobook, hackintosh
 
 # Dont forget to change device info things
 - MLB
@@ -8,3 +8,5 @@ Efi files for X512DA vivoboook, hackintosh
 - SystemSerialNumber
 - SystemUUID
 heres a guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
+# Tested on
+Ventura (13)
