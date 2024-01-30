@@ -15,7 +15,7 @@ Ventura (13)
 - [x] Bluetooth Intel AC 7265
 - [x] Ports
 - [x] Audio Realtek ALC256
-- [ ] Microphone
+- [ ] Microphone (you could just buy a external mic and plug it in)
 - [x] accelerated graphics & iGPU
 - [ ] Camera
 - [x] Touchpad
