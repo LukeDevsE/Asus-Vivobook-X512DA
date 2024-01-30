@@ -8,6 +8,9 @@ Efi files for X512DA vivobook, hackintosh
 - SystemSerialNumber
 - SystemUUID
 heres a guide: https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html
+# do after install
+after you install, build this https://github.com/ChefKissInc/NootedRed
+then put it in kexts, and do oc clean snapshot using https://github.com/corpnewt/ProperTree, on dialog press yes, it will be laggy until you put nooted red
 # Tested on
 Ventura (13)
 # Things that work
