@@ -22,3 +22,4 @@ Ventura (13)
 - [x] Keyboard
 - [x] Battery Status
 - [x] Cpu: Ryzen 3 3500U
+- [x] Sleep & Shutdown & Restart
